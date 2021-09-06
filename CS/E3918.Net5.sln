@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How to Table View Drag and Drop", "How to Table View Drag and Drop.csproj", "{B3956CD4-32AA-456F-A78A-1BF6101C6D11}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How to Table View Drag and Drop", "How to Table View Drag and Drop.Net5.csproj", "{B3956CD4-32AA-456F-A78A-1BF6101C6D11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
